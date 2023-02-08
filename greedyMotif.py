@@ -1,7 +1,7 @@
 
 
 """
-Definitions of subroutines (and subroutines of subroutines ^_^) and their outcomes:
+Definitions of subroutines (and subroutines of subroutines) and their outcomes:
 
 Count(Motifs): Given a collection of Motifs, count the occurrences of each nucleotide in 
 Motifs (in this case a collection of 3-mers taken) at each position i in a string of Motifs 
